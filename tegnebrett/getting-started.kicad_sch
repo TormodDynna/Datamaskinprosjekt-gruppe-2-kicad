@@ -13704,7 +13704,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "hirose-footprints:CON6_1X6_DRBF_HST_HIR"
+		(property "Footprint" "tegnebrett_modules:CON6_1X6_DRBF_HST_HIR"
 			(at 36.83 166.37 0)
 			(effects
 				(font
@@ -13734,6 +13734,15 @@
 			)
 		)
 		(property "Sim.Library" "./"
+			(at 36.83 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Name" "<unbekannt>"
 			(at 36.83 166.37 0)
 			(effects
 				(font
@@ -15804,7 +15813,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "hirose-footprints:CONN_45S-0.5SH55"
+		(property "Footprint" "tegnebrett_modules:CONN_45S-0.5SH55"
 			(at 33.782 21.336 0)
 			(effects
 				(font
@@ -15825,6 +15834,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 36.83 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Library" "./"
 			(at 36.83 30.48 0)
 			(effects
 				(font
