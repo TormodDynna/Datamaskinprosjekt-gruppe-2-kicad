@@ -12153,7 +12153,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_2x07_P1.27mm_Vertical"
 			(at 227.33 102.87 0)
 			(effects
 				(font
@@ -14007,8 +14007,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "Header_Pin_01x08"
-			(at 257.81 116.8399 90)
+		(property "Value" "MCU_Header_Pin"
+			(at 258.064 123.444 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14016,7 +14016,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical"
 			(at 256.54 116.84 0)
 			(effects
 				(font
