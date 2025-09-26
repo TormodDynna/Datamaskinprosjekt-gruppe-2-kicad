@@ -17829,6 +17829,48 @@
 		)
 	)
 	(sheet
+		(at 266.7 66.04)
+		(size 16.51 16.51)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2b77afb8-d96a-4ff9-98fc-590ed1d53f5b")
+		(property "Sheetname" "PowerSupply2"
+			(at 266.7 65.3284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "powersupply2.kicad_sch"
+			(at 266.7 83.1346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "getting-started"
+				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 246.38 129.54)
 		(size 36.83 20.32)
 		(exclude_from_sim no)

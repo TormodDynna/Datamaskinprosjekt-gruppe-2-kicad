@@ -637,6 +637,10 @@
     [
       "96acbd0b-5bc2-4550-868e-54cd25bdd30a",
       "Power Supply"
+    ],
+    [
+      "2b77afb8-d96a-4ff9-98fc-590ed1d53f5b",
+      "PowerSupply2"
     ]
   ],
   "text_variables": {}
