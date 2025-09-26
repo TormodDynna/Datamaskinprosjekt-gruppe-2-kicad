@@ -6083,7 +6083,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PWP16_2P31X2P46"
+		(property "Footprint" ""
 			(at 121.92 102.87 0)
 			(effects
 				(font
@@ -6331,7 +6331,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PWP14_2P31X2P46"
+		(property "Footprint" ""
 			(at 121.92 45.72 0)
 			(effects
 				(font
