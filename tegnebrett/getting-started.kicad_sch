@@ -14277,7 +14277,7 @@
 				)
 			)
 		)
-		(property "Value" "60MHz"
+		(property "Value" "48MHz"
 			(at 53.34 64.77 0)
 			(effects
 				(font

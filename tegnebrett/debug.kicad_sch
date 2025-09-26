@@ -7787,10 +7787,6 @@
 		(uuid "d83eae7a-3083-4b6f-a6e8-3ec63b5b9f03")
 	)
 	(no_connect
-		(at 218.44 111.76)
-		(uuid "d83fb404-db0e-413c-8336-08807ff0c2bd")
-	)
-	(no_connect
 		(at 16.51 154.94)
 		(uuid "d92f2249-326f-4f32-a75e-cb29ed9ec20a")
 	)
@@ -7849,6 +7845,10 @@
 	(no_connect
 		(at 16.51 152.4)
 		(uuid "f527a812-ad71-44cc-b2b9-707cf5439343")
+	)
+	(no_connect
+		(at 320.04 106.68)
+		(uuid "f6bbc383-1af5-4396-9b4a-b7aa61f2915c")
 	)
 	(no_connect
 		(at 218.44 149.86)
@@ -10318,14 +10318,14 @@
 	)
 	(hierarchical_label "SCK"
 		(shape input)
-		(at 320.04 106.68 0)
+		(at 218.44 111.76 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
-		(uuid "cb8df8f9-0be8-48c5-bb4c-a688cb2fb58c")
+		(uuid "387ad864-8d09-46f9-a74d-93184e23b3fa")
 	)
 	(hierarchical_label "INTERRUPT"
 		(shape input)
