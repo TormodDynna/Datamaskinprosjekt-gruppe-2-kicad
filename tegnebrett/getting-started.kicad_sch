@@ -18023,48 +18023,6 @@
 			)
 		)
 	)
-	(sheet
-		(at 262.89 110.49)
-		(size 17.78 15.24)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "96acbd0b-5bc2-4550-868e-54cd25bdd30a")
-		(property "Sheetname" "Power Supply"
-			(at 262.89 109.7784 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "power_supply.kicad_sch"
-			(at 262.89 126.3146 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "getting-started"
-				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62"
-					(page "6")
-				)
-			)
-		)
-	)
 	(sheet_instances
 		(path "/"
 			(page "1")
