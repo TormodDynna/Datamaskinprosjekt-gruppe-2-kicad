@@ -1,0 +1,6 @@
+# Ignore lock files
+*.lck
+
+# Ignore autosaves
+\#auto_saved_files#
+_autosave*
