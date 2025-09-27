@@ -4896,7 +4896,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "tegnebrett_modules:PWP16_2P31X2P46"
 			(at 142.24 46.99 0)
 			(effects
 				(font
@@ -6600,7 +6600,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "tegnebrett_modules:PWP16_2P31X2P46"
 			(at 143.51 116.84 0)
 			(effects
 				(font
