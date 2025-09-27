@@ -7643,7 +7643,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "tegnebrett_modules:AMPHENOL_L77HDE15SD1CH4RHNVGA"
 			(at 255.27 118.11 0)
 			(effects
 				(font

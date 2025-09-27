@@ -1,4 +1,4 @@
-26708345791129055
+26711863804336218
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -106302,6 +106302,13 @@ Varistor VF
 2
 2
 tegnebrett_modules
+AMPHENOL_L77HDE15SD1CH4RHNVGA
+
+
+0
+17
+17
+tegnebrett_modules
 CON6_1X6_DRBF_HST_HIR
 
 FH12-6S-1SH55 
@@ -106315,6 +106322,13 @@ FH12-45S-0.5SH55
 0
 47
 47
+tegnebrett_modules
+CWX813-100.0M_CNW
+
+CWX813-100.0M 
+0
+4
+4
 tegnebrett_modules
 OST_USB-A1HSW6
 
