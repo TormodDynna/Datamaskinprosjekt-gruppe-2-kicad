@@ -10119,7 +10119,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "tegnebrett_modules:fpga"
 			(at 204.47 85.09 0)
 			(effects
 				(font

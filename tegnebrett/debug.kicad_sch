@@ -12088,7 +12088,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "tegnebrett_modules:fpga"
 			(at 269.24 101.6 0)
 			(effects
 				(font
@@ -13120,7 +13120,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "tegnebrett_modules:fpga"
 			(at 67.31 205.74 0)
 			(effects
 				(font
@@ -14637,7 +14637,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "tegnebrett_modules:psram"
 			(at 363.22 96.52 0)
 			(effects
 				(font
@@ -15118,7 +15118,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "tegnebrett_modules:fpga"
 			(at 46.99 73.66 0)
 			(effects
 				(font
