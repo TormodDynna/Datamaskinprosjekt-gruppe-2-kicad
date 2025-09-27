@@ -1,0 +1,13 @@
+6p 0805			https://www.digikey.no/no/products/detail/kyocera-avx/08055A6R0CAT2A/1602729
+100n/0.1u 0805		https://www.digikey.no/no/products/detail/kemet/C0805C104K5RACTU/411169
+470n/0.47u 0805 	https://www.digikey.no/no/products/detail/murata-electronics/GCJ21BR71H474KA12L/2783815
+1u 0805			https://www.digikey.no/no/products/detail/samsung-electro-mechanics/CL21B105KAFNNNE/3886724
+2.2u 0805		https://www.digikey.no/no/products/detail/tdk-corporation/C2012X7R1C225K125AB/569046
+4.7u 0805		https://www.digikey.no/no/products/detail/samsung-electro-mechanics/CL21A475KAQNNNE/3886902
+47u 0805		https://www.digikey.no/no/products/detail/samsung-electro-mechanics/CL21A476MQYNNNE/3887510
+
+10u 1206		https://www.digikey.no/no/products/detail/samsung-electro-mechanics/CL31B106KAHNNNE/3887462
+22u 1206 		https://www.digikey.no/no/products/detail/samsung-electro-mechanics/CL31A226KAHNNNE/3888705
+100u 1206		https://www.digikey.no/no/products/detail/samsung-electro-mechanics/CL31A107MQHNNWE/10479833
+
+330u 1210		https://www.digikey.no/no/products/detail/murata-electronics/GRM32ER60G337ME05L/6155746
