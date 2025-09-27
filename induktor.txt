@@ -1,0 +1,3 @@
+1.5µ 0805(2012 metric)    https://www.digikey.no/no/products/detail/murata-electronics/LQM21PN1R5MC0D/1788280
+2.2µ 0805(2012 metric)    https://www.digikey.no/no/products/detail/murata-electronics/DFE201210U-2R2M-P2/7595453
+3.3µ 0805(2012 metric)    https://www.digikey.no/no/products/detail/murata-electronics/LQM21PN3R3MGRD/4359175
