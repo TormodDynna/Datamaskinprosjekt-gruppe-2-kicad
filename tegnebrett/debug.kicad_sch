@@ -15931,7 +15931,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f57e34e7-fd86-441f-86de-01df0a488eae")
-		(property "Reference" "FPGA_debug1"
+		(property "Reference" "J9"
 			(at 107.95 17.78 0)
 			(effects
 				(font
@@ -15939,7 +15939,7 @@
 				)
 			)
 		)
-		(property "Value" "J1"
+		(property "Value" "FPGA_debug1"
 			(at 107.95 20.32 0)
 			(effects
 				(font
@@ -16019,7 +16019,7 @@
 		(instances
 			(project "getting-started"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99"
-					(reference "FPGA_debug1")
+					(reference "J9")
 					(unit 1)
 				)
 			)
@@ -16101,7 +16101,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fa7e66e7-a11d-4638-a7a6-3ae16fc51a43")
-		(property "Reference" "GD25F128FS2GR1"
+		(property "Reference" "F1"
 			(at 161.544 43.18 0)
 			(effects
 				(font
@@ -16109,7 +16109,7 @@
 				)
 			)
 		)
-		(property "Value" "F1"
+		(property "Value" "GD25F128FS2GR1"
 			(at 159.766 41.148 0)
 			(effects
 				(font
@@ -16117,7 +16117,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "tegnebrett_modules:flash_tegnebrett"
 			(at 161.29 44.45 0)
 			(effects
 				(font
@@ -16171,7 +16171,7 @@
 		(instances
 			(project "getting-started"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99"
-					(reference "GD25F128FS2GR1")
+					(reference "F1")
 					(unit 1)
 				)
 			)
