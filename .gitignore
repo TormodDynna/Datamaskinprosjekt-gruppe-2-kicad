@@ -4,3 +4,6 @@
 # Ignore autosaves
 \#auto_saved_files#
 _autosave*
+
+# Ignore libreoffice calc lock
+.~lock*
