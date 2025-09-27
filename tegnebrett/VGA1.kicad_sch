@@ -7511,7 +7511,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "VGA Transciever"
 			(at 85.9633 128.27 0)
 			(effects
 				(font
@@ -7520,7 +7520,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "tegnebrett_modules:SOP65P640X120-20N"
 			(at 78.74 128.27 0)
 			(effects
 				(font
@@ -8086,7 +8086,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "VGA Transceiver"
 			(at 80.8833 38.1 0)
 			(effects
 				(font
@@ -8095,7 +8095,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "tegnebrett_modules:SOP65P640X120-20N"
 			(at 73.66 38.1 0)
 			(effects
 				(font
