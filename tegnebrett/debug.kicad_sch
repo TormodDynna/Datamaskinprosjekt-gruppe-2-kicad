@@ -10923,7 +10923,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "tegnebrett_modules:LED_J-SERIES_3030_CRW-M"
 			(at 365.76 170.18 0)
 			(effects
 				(font
@@ -14084,7 +14084,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "tegnebrett_modules:LED_J-SERIES_3030_CRW-M"
 			(at 339.09 167.64 0)
 			(effects
 				(font
@@ -14974,7 +14974,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "tegnebrett_modules:LED_J-SERIES_3030_CRW-M"
 			(at 339.09 172.72 0)
 			(effects
 				(font

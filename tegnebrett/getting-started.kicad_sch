@@ -11941,7 +11941,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "tegnebrett_modules:LED_J-SERIES_3030_CRW-M"
 			(at 179.07 76.2 0)
 			(effects
 				(font
@@ -13128,7 +13128,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "tegnebrett_modules:LED_J-SERIES_3030_CRW-M"
 			(at 157.48 96.52 0)
 			(effects
 				(font
@@ -13204,7 +13204,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "tegnebrett_modules:LED_J-SERIES_3030_CRW-M"
 			(at 157.48 78.74 0)
 			(effects
 				(font
@@ -13617,7 +13617,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "tegnebrett_modules:LED_J-SERIES_3030_CRW-M"
 			(at 157.48 73.66 0)
 			(effects
 				(font
@@ -14499,7 +14499,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "tegnebrett_modules:XRCGB48M000F4M00R0_MUR"
 			(at 53.34 72.39 0)
 			(effects
 				(font
@@ -15850,7 +15850,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "tegnebrett_modules:LED_J-SERIES_3030_CRW-M"
 			(at 179.07 99.06 0)
 			(effects
 				(font
