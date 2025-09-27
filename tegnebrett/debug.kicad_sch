@@ -14621,7 +14621,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dfd8fa81-cdc9-40e2-982f-2554a1e41858")
-		(property "Reference" "IS66WVH16M8DBLL-100B1LI1"
+		(property "Reference" "U8"
 			(at 375.92 91.44 0)
 			(effects
 				(font
@@ -14629,7 +14629,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "IS66WVH16M8DBLL-100B1LI1"
 			(at 375.92 93.98 0)
 			(effects
 				(font
@@ -14739,7 +14739,7 @@
 		(instances
 			(project "getting-started"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99"
-					(reference "IS66WVH16M8DBLL-100B1LI1")
+					(reference "U8")
 					(unit 1)
 				)
 			)
