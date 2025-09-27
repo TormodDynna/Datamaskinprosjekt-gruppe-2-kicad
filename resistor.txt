@@ -1,0 +1,17 @@
+Motstander
+
+led ukjent
+47 0805			https://www.digikey.no/no/products/detail/stackpole-electronics-inc/RMCF0805JT47R0/1757848
+100 0805		https://www.digikey.no/no/products/detail/panasonic-electronic-components/ERA-6AEB101V/1465724
+270 0805		https://www.digikey.no/no/products/detail/vishay-dale/CRCW0805270RFKEAC/7922379
+330 0805		https://www.digikey.no/no/products/detail/stackpole-electronics-inc/RMCF0805FT330R/1760484
+536 0805		https://www.digikey.no/no/products/detail/yageo/RC0805FR-07536RL/728026
+2.4k 0805		https://www.digikey.no/no/products/detail/yageo/RC0805FR-072K4L/727690
+4.7k 0805		https://www.digikey.no/no/products/detail/vishay-dale/CRCW08054K70FKEAC/7928553
+6.81k 0805		https://www.digikey.no/no/products/detail/yageo/RC0805FR-076K81L/728068
+10k 0805		https://www.digikey.no/no/products/detail/susumu/RR1220P-103-D/432315
+22.1k 0805		https://www.digikey.no/no/products/detail/stackpole-electronics-inc/RMCF0805FT22K1/1760211
+30.1k 0805		https://www.digikey.no/no/products/detail/vishay-dale/CRCW080530K1FKEA/1175804
+73.2k 0805		https://www.digikey.no/no/products/detail/panasonic-electronic-components/ERA-6AEB7322V/2025832
+100k 0805		https://www.digikey.no/no/products/detail/susumu/RG2012P-104-B-T5/1240656
+124k 0805		https://www.digikey.no/no/products/detail/yageo/RC0805FR-07124KL/727580
