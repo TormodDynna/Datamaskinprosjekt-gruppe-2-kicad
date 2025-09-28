@@ -11349,7 +11349,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "tegnebrett_modules:SW_PS1024ALRED"
 			(at 71.12 44.45 0)
 			(effects
 				(font
@@ -15682,7 +15682,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "tegnebrett_modules:SW_PS1024ALRED"
 			(at 55.88 33.02 0)
 			(effects
 				(font
@@ -16292,7 +16292,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "tegnebrett_modules:SW_PS1024ALRED"
 			(at 171.45 139.7 0)
 			(effects
 				(font
