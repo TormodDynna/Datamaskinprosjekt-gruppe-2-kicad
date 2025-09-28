@@ -8483,6 +8483,14 @@
 		(uuid "9d511cbb-4d07-4b92-8726-37d5c0e94623")
 	)
 	(no_connect
+		(at 144.78 149.86)
+		(uuid "a21e1d0c-d71f-4a4b-a8f4-c6af0f76eddc")
+	)
+	(no_connect
+		(at 144.78 147.32)
+		(uuid "bdda781f-e468-4f72-9263-2c595650a19d")
+	)
+	(no_connect
 		(at 83.82 121.92)
 		(uuid "c32d8555-54dc-4286-b272-6a8bc82b1af2")
 	)
