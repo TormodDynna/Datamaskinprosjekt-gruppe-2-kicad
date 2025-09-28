@@ -1,4 +1,4 @@
-26724176521152286
+26729453771696092
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -106323,6 +106323,13 @@ FH12-45S-0.5SH55
 47
 47
 tegnebrett_modules
+CUI_PJ-002A
+
+
+0
+3
+3
+tegnebrett_modules
 CWX813-100.0M_CNW
 
 CWX813-100.0M 
@@ -106330,9 +106337,9 @@ CWX813-100.0M
 4
 4
 tegnebrett_modules
-LED_J-SERIES_3030_CRW-M
+LED_LTST-C193KGKT-5A_LTO-M
 
-JB3030AWT-P-B65EA0000-N0000001 
+LTST-C193KGKT-5A 
 0
 2
 2
@@ -106357,6 +106364,20 @@ SOP65P640X120-20N
 0
 20
 20
+tegnebrett_modules
+SW_KS11R23CQD
+
+
+0
+2
+2
+tegnebrett_modules
+SW_PS1024ALRED
+
+
+0
+2
+2
 tegnebrett_modules
 XRCGB48M000F4M00R0_MUR
 
