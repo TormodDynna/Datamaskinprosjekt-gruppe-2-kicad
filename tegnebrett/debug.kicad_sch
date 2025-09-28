@@ -11330,7 +11330,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "270"
 			(at 327.66 175.006 90)
 			(effects
 				(font
@@ -11338,7 +11338,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 327.66 174.498 90)
 			(effects
 				(font
@@ -12012,7 +12012,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "270"
 			(at 327.66 165.608 90)
 			(effects
 				(font
@@ -12020,7 +12020,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 327.66 169.418 90)
 			(effects
 				(font
