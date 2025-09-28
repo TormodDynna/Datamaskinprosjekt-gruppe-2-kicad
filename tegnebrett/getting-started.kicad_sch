@@ -14783,7 +14783,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "tegnebrett_modules:SW_KS11R23CQD"
 			(at 171.45 149.86 0)
 			(effects
 				(font
@@ -16931,7 +16931,7 @@
 			)
 		)
 		(property "Value" "Undo"
-			(at 167.894 182.626 90)
+			(at 171.45 175.514 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16939,7 +16939,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "tegnebrett_modules:SW_KS11R23CQD"
 			(at 166.37 175.26 0)
 			(effects
 				(font
