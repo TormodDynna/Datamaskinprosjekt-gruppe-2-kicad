@@ -7612,10 +7612,6 @@
 		(uuid "0d109c0f-b5e9-4412-b64b-b58a0c4503b3")
 	)
 	(no_connect
-		(at 218.44 106.68)
-		(uuid "1089fa8b-949f-4729-b6e2-0a8c91ae3611")
-	)
-	(no_connect
 		(at 320.04 116.84)
 		(uuid "10b86679-02a1-490e-bb1e-2bada3293d77")
 	)
@@ -7642,6 +7638,10 @@
 	(no_connect
 		(at 118.11 182.88)
 		(uuid "1bca0400-3616-4994-8621-3b6bc02e3669")
+	)
+	(no_connect
+		(at 218.44 101.6)
+		(uuid "1e7761f6-781b-4ee3-83dc-c1e9c1b5010f")
 	)
 	(no_connect
 		(at 118.11 276.86)
@@ -8052,10 +8052,6 @@
 		(uuid "ee56276b-4e0d-4fac-88b2-d454194ecb8f")
 	)
 	(no_connect
-		(at 218.44 101.6)
-		(uuid "efcdc18f-c190-4d15-8958-1c12d0a1ec4d")
-	)
-	(no_connect
 		(at 118.11 226.06)
 		(uuid "f15c5060-1fda-4043-a78b-093e5c17568f")
 	)
@@ -8102,6 +8098,10 @@
 	(no_connect
 		(at 218.44 104.14)
 		(uuid "fd8eacce-c300-482f-990d-83cd6e6a2631")
+	)
+	(no_connect
+		(at 218.44 111.76)
+		(uuid "fefda2f6-b9e8-4118-9924-e90451d239dd")
 	)
 	(wire
 		(pts
@@ -8165,7 +8165,7 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 96.52) (xy 214.63 102.87)
+			(xy 212.09 96.52) (xy 212.09 102.87)
 		)
 		(stroke
 			(width 0)
@@ -8212,16 +8212,6 @@
 			(type default)
 		)
 		(uuid "0da7b80b-6d13-4c8e-a5b9-3ca1cc903959")
-	)
-	(wire
-		(pts
-			(xy 215.9 105.41) (xy 215.9 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0ddadefd-8976-4013-ae72-6beadfc9299a")
 	)
 	(wire
 		(pts
@@ -8372,16 +8362,6 @@
 			(type default)
 		)
 		(uuid "24381815-b566-4b35-8f2a-66d584d714c5")
-	)
-	(wire
-		(pts
-			(xy 205.74 105.41) (xy 215.9 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2446e315-36be-460c-9916-3925faec8639")
 	)
 	(wire
 		(pts
@@ -8555,7 +8535,7 @@
 	)
 	(wire
 		(pts
-			(xy 210.82 93.98) (xy 205.74 93.98)
+			(xy 208.28 93.98) (xy 205.74 93.98)
 		)
 		(stroke
 			(width 0)
@@ -8765,23 +8745,13 @@
 	)
 	(wire
 		(pts
-			(xy 209.55 81.28) (xy 218.44 81.28)
+			(xy 207.01 81.28) (xy 218.44 81.28)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "51c3811a-7a1b-45a7-98fb-ffe5a5c1a735")
-	)
-	(wire
-		(pts
-			(xy 213.36 99.06) (xy 205.74 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "52edcaed-383d-459b-b874-92f48366326d")
 	)
 	(wire
 		(pts
@@ -8865,13 +8835,13 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 96.52) (xy 212.09 96.52)
+			(xy 205.74 99.06) (xy 210.82 99.06)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "5dbbaeed-98ef-4dae-84c2-9d5cfdf6f3f1")
+		(uuid "5cf43a3f-c3b6-4219-b7e2-d333b3016d86")
 	)
 	(wire
 		(pts
@@ -9105,6 +9075,16 @@
 	)
 	(wire
 		(pts
+			(xy 205.74 102.87) (xy 212.09 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71d4079f-99ce-472a-a1ce-5d32b99db260")
+	)
+	(wire
+		(pts
 			(xy 114.3 31.75) (xy 114.3 34.29)
 		)
 		(stroke
@@ -9142,6 +9122,16 @@
 			(type default)
 		)
 		(uuid "77dbcb6c-bd89-4dae-ba3c-48b3360445a4")
+	)
+	(wire
+		(pts
+			(xy 213.36 105.41) (xy 213.36 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "78632e9d-9c8b-4a80-aff0-845dbad1dadd")
 	)
 	(wire
 		(pts
@@ -9225,7 +9215,7 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 83.82) (xy 210.82 83.82)
+			(xy 218.44 83.82) (xy 208.28 83.82)
 		)
 		(stroke
 			(width 0)
@@ -9262,6 +9252,16 @@
 			(type default)
 		)
 		(uuid "80a0bead-7aac-436c-86b8-3ccacff7e12f")
+	)
+	(wire
+		(pts
+			(xy 205.74 96.52) (xy 209.55 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "816156e8-abf9-4446-a4e8-b9c677578958")
 	)
 	(wire
 		(pts
@@ -9375,16 +9375,6 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 102.87) (xy 205.74 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "94e8c06b-94bf-4ba7-a008-ae0a6b42a765")
-	)
-	(wire
-		(pts
 			(xy 209.55 180.34) (xy 201.93 180.34)
 		)
 		(stroke
@@ -9485,7 +9475,7 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 96.52) (xy 214.63 96.52)
+			(xy 218.44 96.52) (xy 212.09 96.52)
 		)
 		(stroke
 			(width 0)
@@ -9505,7 +9495,7 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 88.9) (xy 213.36 88.9)
+			(xy 218.44 88.9) (xy 210.82 88.9)
 		)
 		(stroke
 			(width 0)
@@ -9605,7 +9595,7 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 88.9) (xy 213.36 99.06)
+			(xy 210.82 88.9) (xy 210.82 99.06)
 		)
 		(stroke
 			(width 0)
@@ -9622,16 +9612,6 @@
 			(type default)
 		)
 		(uuid "ad791560-d470-455a-9445-013c5fe748c0")
-	)
-	(wire
-		(pts
-			(xy 212.09 96.52) (xy 212.09 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "afdfae9a-1205-4392-87ec-e75d843e5a4a")
 	)
 	(wire
 		(pts
@@ -9765,7 +9745,7 @@
 	)
 	(wire
 		(pts
-			(xy 210.82 83.82) (xy 210.82 93.98)
+			(xy 208.28 83.82) (xy 208.28 93.98)
 		)
 		(stroke
 			(width 0)
@@ -9815,7 +9795,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 91.44) (xy 209.55 91.44)
+			(xy 205.74 91.44) (xy 207.01 91.44)
 		)
 		(stroke
 			(width 0)
@@ -9832,6 +9812,16 @@
 			(type default)
 		)
 		(uuid "cf067c90-c7a0-4514-9325-f2d6f88df843")
+	)
+	(wire
+		(pts
+			(xy 209.55 96.52) (xy 209.55 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cf30940a-ab98-4734-bf96-7dee94c7f14e")
 	)
 	(wire
 		(pts
@@ -9895,7 +9885,7 @@
 	)
 	(wire
 		(pts
-			(xy 209.55 91.44) (xy 209.55 81.28)
+			(xy 207.01 91.44) (xy 207.01 81.28)
 		)
 		(stroke
 			(width 0)
@@ -10075,7 +10065,7 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 99.06) (xy 218.44 99.06)
+			(xy 213.36 99.06) (xy 218.44 99.06)
 		)
 		(stroke
 			(width 0)
@@ -10085,7 +10075,7 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 86.36) (xy 218.44 86.36)
+			(xy 209.55 86.36) (xy 218.44 86.36)
 		)
 		(stroke
 			(width 0)
@@ -10102,6 +10092,16 @@
 			(type default)
 		)
 		(uuid "fe4681c6-2880-4d42-9353-51a0b370d592")
+	)
+	(wire
+		(pts
+			(xy 205.74 105.41) (xy 213.36 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe813a42-b108-4af7-8e1a-c5d3ac7f7b6a")
 	)
 	(wire
 		(pts
@@ -10597,14 +10597,14 @@
 	)
 	(hierarchical_label "SCK_FPGA"
 		(shape input)
-		(at 218.44 111.76 180)
+		(at 218.44 106.68 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right)
 		)
-		(uuid "387ad864-8d09-46f9-a74d-93184e23b3fa")
+		(uuid "bd58dcfd-3370-48f7-b6e2-3567989a9757")
 	)
 	(hierarchical_label "INTERRUPT"
 		(shape input)
