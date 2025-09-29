@@ -2692,12 +2692,6 @@
 		(uuid "781f90ac-e3f3-417f-99f6-be8de46adf93")
 	)
 	(junction
-		(at 92.71 27.94)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7bc3d86d-ab3f-48db-9495-60f7b2584950")
-	)
-	(junction
 		(at 95.25 107.95)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3931,16 +3925,6 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 27.94) (xy 92.71 27.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9c079b20-8acf-4354-b5dd-1728775a2a83")
-	)
-	(wire
-		(pts
 			(xy 166.37 52.07) (xy 168.91 52.07)
 		)
 		(stroke
@@ -4141,7 +4125,7 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 27.94) (xy 102.87 27.94)
+			(xy 83.82 27.94) (xy 102.87 27.94)
 		)
 		(stroke
 			(width 0)
@@ -4588,6 +4572,28 @@
 			(type default)
 		)
 		(uuid "fface32d-e61d-441f-b698-b73c106678d3")
+	)
+	(global_label "POWER_IN"
+		(shape input)
+		(at 96.52 27.94 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "68ca3b12-918d-4599-9b4a-2bc6a51f17fc")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 96.52 15.581 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "POWER_IN"
 		(shape input)
@@ -5227,71 +5233,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:PWR_FLAG")
-		(at 92.71 27.94 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "42ef2099-764f-4b82-bcda-4a4d1583af1f")
-		(property "Reference" "#FLG03"
-			(at 92.71 26.035 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "PWR_FLAG"
-			(at 97.79 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 92.71 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 92.71 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 92.71 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d911d72e-9b87-49f0-bfce-08c5200dbfcd")
-		)
-		(instances
-			(project "getting-started"
-				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/2b77afb8-d96a-4ff9-98fc-590ed1d53f5b"
-					(reference "#FLG03")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:L")
 		(at 88.9 54.61 90)
 		(unit 1)
@@ -5865,7 +5806,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CUI_PJ-002A"
+		(property "Footprint" "tegnebrett_modules:CUI_PJ-002A"
 			(at 78.74 27.94 0)
 			(effects
 				(font
