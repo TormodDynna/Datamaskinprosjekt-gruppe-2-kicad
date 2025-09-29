@@ -16338,7 +16338,7 @@
 			)
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62"
 					(page "6")
 				)
@@ -16449,7 +16449,7 @@
 			)
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62"
 					(page "2")
 				)
@@ -16491,7 +16491,7 @@
 			)
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62"
 					(page "5")
 				)

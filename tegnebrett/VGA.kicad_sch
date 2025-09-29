@@ -3947,7 +3947,7 @@
 			(uuid "88c57ca5-7ddc-4413-98df-20903869b747")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "R30")
 					(unit 1)
@@ -4013,7 +4013,7 @@
 			(uuid "473ea8ac-dcf3-459b-872a-a9d0003aef89")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "#PWR052")
 					(unit 1)
@@ -4083,7 +4083,7 @@
 			(uuid "c2ba7af7-0b13-4d5a-9ba3-727f2ce7c349")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "R32")
 					(unit 1)
@@ -4153,7 +4153,7 @@
 			(uuid "cb44bdd1-8487-4357-86dc-a4458416768e")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "R52")
 					(unit 1)
@@ -4219,7 +4219,7 @@
 			(uuid "d57e163d-d8d8-4a05-8ab2-8e511077340e")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "#PWR045")
 					(unit 1)
@@ -4285,7 +4285,7 @@
 			(uuid "f22a9614-b716-489a-8fd6-78edc1f73269")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "#PWR044")
 					(unit 1)
@@ -4355,7 +4355,7 @@
 			(uuid "c664f940-3a60-4a8a-87cb-7dd1cf48a67f")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "R50")
 					(unit 1)
@@ -4422,7 +4422,7 @@
 			(uuid "e7a7ba4f-314c-4cc2-8e56-f314a26bf90f")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "R60")
 					(unit 1)
@@ -4489,7 +4489,7 @@
 			(uuid "f8fe9a2f-3714-45c0-ba73-566b8e9e0bcd")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "R47")
 					(unit 1)
@@ -4559,7 +4559,7 @@
 			(uuid "6d0c7776-4044-47cb-99ca-5e4054a28720")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "R37")
 					(unit 1)
@@ -4626,7 +4626,7 @@
 			(uuid "bccea997-0534-4d2c-8ddb-588b0feb0e79")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "R43")
 					(unit 1)
@@ -4696,7 +4696,7 @@
 			(uuid "dff4e4ac-54fb-4b17-9603-7351f04ebad8")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "R29")
 					(unit 1)
@@ -4766,7 +4766,7 @@
 			(uuid "56e552b7-9d3d-4875-bd5e-9feb45d492fe")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "R33")
 					(unit 1)
@@ -4836,7 +4836,7 @@
 			(uuid "61807340-5296-4d61-aad9-c259ca7718c8")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "R56")
 					(unit 1)
@@ -4902,7 +4902,7 @@
 			(uuid "79f95e66-ff03-434c-bd88-bea669267b84")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "#PWR058")
 					(unit 1)
@@ -4969,7 +4969,7 @@
 			(uuid "14650c5f-99a1-485e-ab23-350b3d1fc28f")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "R44")
 					(unit 1)
@@ -5036,7 +5036,7 @@
 			(uuid "bdd839fb-2e2b-46d4-984c-fc4cc1c8936e")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "R66")
 					(unit 1)
@@ -5106,7 +5106,7 @@
 			(uuid "c8775dee-e9fe-4456-ad12-d22d0b4a0b66")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "R34")
 					(unit 1)
@@ -5173,7 +5173,7 @@
 			(uuid "fa4c9dcc-200a-4f8c-a0a1-f9679abaac7c")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "#PWR055")
 					(unit 1)
@@ -5243,7 +5243,7 @@
 			(uuid "444a6de9-1878-4c0f-ace6-27eda9618751")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "R57")
 					(unit 1)
@@ -5313,7 +5313,7 @@
 			(uuid "e9bb7630-90d1-49d9-8dcc-914ac7dd46bb")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "R63")
 					(unit 1)
@@ -5380,7 +5380,7 @@
 			(uuid "e73efda6-ade0-4473-b1f8-fa69f5894936")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "R45")
 					(unit 1)
@@ -5450,7 +5450,7 @@
 			(uuid "7a9586a1-fc53-4f20-b63a-e2e3525e1508")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "R38")
 					(unit 1)
@@ -5517,7 +5517,7 @@
 			(uuid "06b2447f-d132-4c3f-856f-204222d006f9")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "#PWR050")
 					(unit 1)
@@ -5583,7 +5583,7 @@
 			(uuid "5bcf0699-72f0-4bda-bfb0-61c40e1a7e69")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "#PWR046")
 					(unit 1)
@@ -5650,7 +5650,7 @@
 			(uuid "7f85d1f9-6ac3-4465-bea0-b3c5340c1c20")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "R48")
 					(unit 1)
@@ -5720,7 +5720,7 @@
 			(uuid "bcdc5d65-4f6a-48c0-9c0c-a0738bebb769")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "R62")
 					(unit 1)
@@ -5790,7 +5790,7 @@
 			(uuid "86f8852b-ad84-46b6-ba86-98cff481cd18")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "C26")
 					(unit 1)
@@ -5856,7 +5856,7 @@
 			(uuid "8a9540aa-4c7e-4cd4-a5d4-c9889fbf05cf")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "#PWR049")
 					(unit 1)
@@ -5922,7 +5922,7 @@
 			(uuid "f2d0398b-a559-40c3-aa3e-a48297a1c5c7")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "#PWR048")
 					(unit 1)
@@ -5988,7 +5988,7 @@
 			(uuid "f7366dc2-995d-4f54-8928-597052d4f318")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "#PWR059")
 					(unit 1)
@@ -6058,7 +6058,7 @@
 			(uuid "da5c62b6-479d-4f97-b13e-89504eb3bb03")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "R55")
 					(unit 1)
@@ -6125,7 +6125,7 @@
 			(uuid "9b867a70-4dee-45ec-9a94-f16cd4cb39d1")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "R61")
 					(unit 1)
@@ -6192,7 +6192,7 @@
 			(uuid "30dc1a67-4694-4901-b91a-61c03d49a983")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "R58")
 					(unit 1)
@@ -6258,7 +6258,7 @@
 			(uuid "894570d6-5074-46ff-9054-72588079b4e8")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "#PWR051")
 					(unit 1)
@@ -6328,7 +6328,7 @@
 			(uuid "88d1273b-0285-4ad3-a916-aa0308cc1898")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "R53")
 					(unit 1)
@@ -6394,7 +6394,7 @@
 			(uuid "3219a050-5f8b-4cbb-be03-e3ee81123109")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "#PWR056")
 					(unit 1)
@@ -6460,7 +6460,7 @@
 			(uuid "8ef6f1b3-1cfb-491b-90bc-d6ac4e14700e")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "#PWR057")
 					(unit 1)
@@ -6526,7 +6526,7 @@
 			(uuid "93228c1a-81b8-49bb-af39-f830d194b0c9")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "#PWR041")
 					(unit 1)
@@ -6593,7 +6593,7 @@
 			(uuid "43390691-4a44-47a6-81f2-a653450879b5")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "#PWR054")
 					(unit 1)
@@ -6659,7 +6659,7 @@
 			(uuid "a78ef1e5-9d5c-4a09-b424-4f8e5ee54297")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "#PWR042")
 					(unit 1)
@@ -6729,7 +6729,7 @@
 			(uuid "0ad077a6-8cf0-488e-af12-2294ff3cb08f")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "R36")
 					(unit 1)
@@ -6799,7 +6799,7 @@
 			(uuid "bed5f5df-0ed5-4887-95b4-b6b34ff595c7")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "R35")
 					(unit 1)
@@ -6869,7 +6869,7 @@
 			(uuid "8803357a-3b6b-4864-97ff-0d96f4168a0d")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "R28")
 					(unit 1)
@@ -6939,7 +6939,7 @@
 			(uuid "3f011633-e3b0-47d3-a6ac-25c4858249bb")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "R40")
 					(unit 1)
@@ -7006,7 +7006,7 @@
 			(uuid "78ce7a0a-4b6e-474f-b61f-75dd87ce00bb")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "R59")
 					(unit 1)
@@ -7076,7 +7076,7 @@
 			(uuid "f07db5e2-8542-4aaf-ac7c-5f78c8b107c3")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "R65")
 					(unit 1)
@@ -7143,7 +7143,7 @@
 			(uuid "13e87383-424a-465e-9ffa-a4d964d2796f")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "R46")
 					(unit 1)
@@ -7213,7 +7213,7 @@
 			(uuid "15c5c46c-2b9a-4beb-9839-e1c5417c9892")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "R39")
 					(unit 1)
@@ -7279,7 +7279,7 @@
 			(uuid "6a343884-845b-435d-862b-71390d03a6c5")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "#PWR043")
 					(unit 1)
@@ -7346,7 +7346,7 @@
 			(uuid "26294c80-9e9a-4e09-acf8-2df2be7988a0")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "R49")
 					(unit 1)
@@ -7416,7 +7416,7 @@
 			(uuid "c28a4200-11b4-43f1-a34f-0ae913dca8ea")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "R64")
 					(unit 1)
@@ -7486,7 +7486,7 @@
 			(uuid "b5b4a803-b65e-4351-a324-c28031cbf0d4")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "C25")
 					(unit 1)
@@ -7610,7 +7610,7 @@
 			(uuid "805516b6-e918-49f4-869f-f3bcbef7eefb")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "U6")
 					(unit 1)
@@ -7718,7 +7718,7 @@
 			(uuid "516695b6-9279-4f1b-a432-c93ab080d550")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "J8")
 					(unit 1)
@@ -7788,7 +7788,7 @@
 			(uuid "0d06f7fb-82d5-4e06-bae2-0ad0b3a77328")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "C23")
 					(unit 1)
@@ -7858,7 +7858,7 @@
 			(uuid "56c81bd9-5367-4caf-a045-97c42b96f818")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "R41")
 					(unit 1)
@@ -7925,7 +7925,7 @@
 			(uuid "7538eb40-30ba-4f4c-b56a-7129c41dc54f")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "R42")
 					(unit 1)
@@ -7991,7 +7991,7 @@
 			(uuid "a9424f76-6c3f-4855-9ac5-8fc845bf0742")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "#PWR047")
 					(unit 1)
@@ -8061,7 +8061,7 @@
 			(uuid "711421fb-d6ee-4c20-8104-c13552207f18")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "R51")
 					(unit 1)
@@ -8185,7 +8185,7 @@
 			(uuid "6a75f5fa-93f0-41e3-9f23-cbd8edc593f4")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "U5")
 					(unit 1)
@@ -8255,7 +8255,7 @@
 			(uuid "7cf79fdc-c47a-410a-8178-ede83484ac70")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "R31")
 					(unit 1)
@@ -8322,7 +8322,7 @@
 			(uuid "4fdc3e05-ace7-4364-9249-c6e6b97f54cd")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "R67")
 					(unit 1)
@@ -8388,7 +8388,7 @@
 			(uuid "cb15c849-d4ed-4872-8040-5cf21d62870a")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "#PWR053")
 					(unit 1)
@@ -8458,7 +8458,7 @@
 			(uuid "dd1a612a-3f79-4ff4-850d-dc53f3723c01")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "R54")
 					(unit 1)
@@ -8528,7 +8528,7 @@
 			(uuid "810a0fd0-2e06-4b08-8fa5-599da433a6c5")
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99/620fa9c0-e134-4a4b-b895-a0418660ff44"
 					(reference "C24")
 					(unit 1)

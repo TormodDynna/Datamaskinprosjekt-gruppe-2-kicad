@@ -16578,7 +16578,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "VGA1.kicad_sch"
+		(property "Sheetfile" "VGA.kicad_sch"
 			(at 172.72 112.3446 0)
 			(effects
 				(font
@@ -16728,7 +16728,7 @@
 			)
 		)
 		(instances
-			(project "getting-started"
+			(project "tegnebrett"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62/5e0df967-c6b5-4cdf-8fe6-93251df44e99"
 					(page "3")
 				)
