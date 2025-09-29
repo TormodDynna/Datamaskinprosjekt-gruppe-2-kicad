@@ -10132,16 +10132,6 @@
 		(uuid "41e57722-e102-40c9-9e0b-ec89bd11d19b")
 	)
 	(label "DONE"
-		(at 246.38 132.08 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "461fcabe-94ae-402d-b369-f046f5784fc9")
-	)
-	(label "DONE"
 		(at 144.78 109.22 0)
 		(effects
 			(font
@@ -10270,6 +10260,16 @@
 			(justify left bottom)
 		)
 		(uuid "5d034735-203f-41f6-8c1c-874eb06f0ce8")
+	)
+	(label "DONE"
+		(at 246.38 132.08 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "5fad7ff2-9e1a-4358-950b-b6a824ac99a1")
 	)
 	(label "INTERRUPT"
 		(at 246.38 147.32 180)
@@ -16491,7 +16491,7 @@
 				(justify left top)
 			)
 		)
-		(pin "done" input
+		(pin "DONE" input
 			(at 246.38 132.08 180)
 			(uuid "cb633954-9a84-4a93-ab73-9c3925ba9e28")
 			(effects
@@ -16501,7 +16501,7 @@
 				(justify left)
 			)
 		)
-		(pin "program_b" input
+		(pin "PROGRAM_B" input
 			(at 246.38 134.62 180)
 			(uuid "c287fc34-b4c6-440e-82b9-a32a31e5b87e")
 			(effects
@@ -16511,7 +16511,7 @@
 				(justify left)
 			)
 		)
-		(pin "CS" input
+		(pin "CS_FPGA" input
 			(at 246.38 144.78 180)
 			(uuid "5600fe17-c3d5-4c47-8e6e-45cf5344fcd0")
 			(effects
@@ -16521,7 +16521,7 @@
 				(justify left)
 			)
 		)
-		(pin "MISO" input
+		(pin "MISO_FPGA" input
 			(at 246.38 142.24 180)
 			(uuid "1e27dcc7-9fa9-4360-ab44-c64dfb327a9b")
 			(effects
@@ -16531,7 +16531,7 @@
 				(justify left)
 			)
 		)
-		(pin "MOSI" input
+		(pin "MOSI_FPGA" input
 			(at 246.38 139.7 180)
 			(uuid "be752b84-4187-46b9-b077-1cd10555ffe3")
 			(effects
@@ -16541,7 +16541,7 @@
 				(justify left)
 			)
 		)
-		(pin "SCK" input
+		(pin "SCK_FPGA" input
 			(at 246.38 137.16 180)
 			(uuid "9b6abac1-0404-4f9f-959f-5a81616b90e1")
 			(effects

@@ -10573,7 +10573,7 @@
 		)
 		(uuid "fd0c5b7c-1248-468c-aa0d-1bae6dd8c585")
 	)
-	(hierarchical_label "MISO"
+	(hierarchical_label "MISO_FPGA"
 		(shape input)
 		(at 218.44 162.56 180)
 		(effects
@@ -10584,7 +10584,7 @@
 		)
 		(uuid "267bc50e-439a-4cd3-aa00-1db47fbb04eb")
 	)
-	(hierarchical_label "done"
+	(hierarchical_label "DONE"
 		(shape input)
 		(at 109.22 78.74 0)
 		(effects
@@ -10595,7 +10595,7 @@
 		)
 		(uuid "30c9d4bb-cbdc-482a-a56f-ede94ee5ed02")
 	)
-	(hierarchical_label "SCK"
+	(hierarchical_label "SCK_FPGA"
 		(shape input)
 		(at 218.44 111.76 180)
 		(effects
@@ -10617,7 +10617,7 @@
 		)
 		(uuid "d30e00d9-1bd7-459f-8b17-a4865e029597")
 	)
-	(hierarchical_label "program_b"
+	(hierarchical_label "PROGRAM_B"
 		(shape input)
 		(at 121.92 86.36 180)
 		(effects
@@ -10628,7 +10628,7 @@
 		)
 		(uuid "e24a74a0-ca67-45ba-9542-5158099103a1")
 	)
-	(hierarchical_label "MOSI"
+	(hierarchical_label "MOSI_FPGA"
 		(shape input)
 		(at 218.44 160.02 180)
 		(effects
@@ -10639,7 +10639,7 @@
 		)
 		(uuid "f420fcb9-dd10-496b-b852-0e759371e3b4")
 	)
-	(hierarchical_label "CS"
+	(hierarchical_label "CS_FPGA"
 		(shape input)
 		(at 194.31 165.1 180)
 		(effects
