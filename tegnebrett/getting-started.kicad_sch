@@ -11675,7 +11675,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "tegnebrett_modules:OST_USB-A1HSW6"
+		(property "Footprint" "USB-A1HSW6:OST_USB-A1HSW6"
 			(at 254 73.66 0)
 			(effects
 				(font
