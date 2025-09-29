@@ -16482,7 +16482,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "untitled.kicad_sch"
+		(property "Sheetfile" "Power_FPGA.kicad_sch"
 			(at 260.35 125.0446 0)
 			(effects
 				(font
