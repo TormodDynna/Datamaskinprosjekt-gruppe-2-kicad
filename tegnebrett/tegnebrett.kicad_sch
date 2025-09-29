@@ -8415,6 +8415,12 @@
 		(uuid "c588d365-6121-42dc-81c0-36e1dd1af3f8")
 	)
 	(junction
+		(at 53.34 90.17)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c96c6e17-d129-4bc5-b192-82ab4126a687")
+	)
+	(junction
 		(at 231.14 30.48)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9093,6 +9099,16 @@
 			(type default)
 		)
 		(uuid "96a2899b-e592-4acc-8a93-374cba7de5f6")
+	)
+	(wire
+		(pts
+			(xy 53.34 90.17) (xy 53.34 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "981023be-cb83-4f20-b339-8a3f003dcca5")
 	)
 	(wire
 		(pts
@@ -11411,6 +11427,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 53.34 90.17 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "135e1105-5420-4723-b9a5-445c6ebcbbbf")
+		(property "Reference" "#FLG08"
+			(at 55.245 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 56.134 90.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 53.34 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 53.34 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 53.34 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "90ebc53d-a792-432a-b350-18b2836d1d1b")
+		)
+		(instances
+			(project ""
+				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62"
+					(reference "#FLG08")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 162.56 96.52 90)
 		(unit 1)
@@ -13206,7 +13288,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 53.34 90.17 0)
+		(at 53.34 91.44 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13215,7 +13297,7 @@
 		(fields_autoplaced yes)
 		(uuid "6fc382da-8533-4343-930c-fe9c38d5beb1")
 		(property "Reference" "#PWR01"
-			(at 53.34 96.52 0)
+			(at 53.34 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13224,7 +13306,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 53.34 95.25 0)
+			(at 53.34 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13232,7 +13314,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 53.34 90.17 0)
+			(at 53.34 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13241,7 +13323,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 53.34 90.17 0)
+			(at 53.34 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13250,7 +13332,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 53.34 90.17 0)
+			(at 53.34 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
