@@ -10153,16 +10153,6 @@
 		)
 		(uuid "1950774f-d711-4912-902e-9a0bb5431357")
 	)
-	(label "VCCO_0"
-		(at 66.04 22.86 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "1a491abd-868c-4f4e-bea4-87e9758d2688")
-	)
 	(label "Header8"
 		(at 320.04 66.04 0)
 		(effects
@@ -10472,16 +10462,6 @@
 			(justify left bottom)
 		)
 		(uuid "d0178c07-69d2-4c06-a7ad-ed6e50243bc5")
-	)
-	(label "VCCO35"
-		(at 97.79 132.08 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "d1794063-8ea2-41d5-934b-b7aba405d71e")
 	)
 	(label "DQ0"
 		(at 320.04 73.66 0)
