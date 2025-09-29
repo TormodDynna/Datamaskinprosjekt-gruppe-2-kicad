@@ -1,5 +1,4 @@
 (sym_lib_table
   (version 7)
   (lib (name "tegnebrett_symbols")(type "KiCad")(uri "${KIPRJMOD}/tegnebrett_symbols.kicad_sym")(options "")(descr "Custom symbols for tegnebrett project"))
-  (lib (name "New_Library")(type "KiCad")(uri "${KIPRJMOD}/New_Library.kicad_sym")(options "")(descr ""))
 )
