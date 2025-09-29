@@ -16370,7 +16370,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "debug.kicad_sch"
+		(property "Sheetfile" "FPGA.kicad_sch"
 			(at 263.144 150.368 0)
 			(effects
 				(font
