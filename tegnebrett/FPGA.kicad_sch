@@ -7632,6 +7632,10 @@
 		(uuid "13d6fb53-9f36-447b-83ca-4a46a118fc67")
 	)
 	(no_connect
+		(at 320.04 147.32)
+		(uuid "15d6edbe-2e8a-4b6d-853b-9cca65931d46")
+	)
+	(no_connect
 		(at 118.11 177.8)
 		(uuid "18eb864c-0f6a-4f68-8125-9958d68b52e3")
 	)
@@ -7810,10 +7814,6 @@
 	(no_connect
 		(at 360.68 97.79)
 		(uuid "678bba95-63f9-4af3-8e65-70d2d4d16b27")
-	)
-	(no_connect
-		(at 320.04 73.66)
-		(uuid "68af23a8-e2b9-4ed9-805e-6d8030e98ea2")
 	)
 	(no_connect
 		(at 320.04 91.44)
@@ -10183,16 +10183,6 @@
 		)
 		(uuid "25aabee2-7f8e-4b2b-a308-15216491a054")
 	)
-	(label "DQ0"
-		(at 320.04 147.32 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "26b66e8c-f83b-4cdc-bb3e-e7ff5649d06a")
-	)
 	(label "DQ5"
 		(at 391.16 119.38 0)
 		(effects
@@ -10492,6 +10482,16 @@
 			(justify left bottom)
 		)
 		(uuid "d1794063-8ea2-41d5-934b-b7aba405d71e")
+	)
+	(label "DQ0"
+		(at 320.04 73.66 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d7849c24-f2c0-41b4-9e9b-8390ea89ebd8")
 	)
 	(label "Header7"
 		(at 377.19 57.15 0)
