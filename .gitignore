@@ -7,3 +7,6 @@ _autosave*
 
 # Ignore libreoffice calc lock
 .~lock*
+
+# Ignore backup files
+*.bak
