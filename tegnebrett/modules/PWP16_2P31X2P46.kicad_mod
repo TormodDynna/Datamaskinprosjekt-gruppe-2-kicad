@@ -1217,7 +1217,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "a2b199ba-1d0d-4b8c-b52e-ede130555b7e")
 	)
-	(pad "EPAD" smd rect
+	(pad "17" smd rect
 		(at 0 0)
 		(size 2.46 2.31)
 		(layers "F.Cu")
