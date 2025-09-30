@@ -6200,7 +6200,7 @@
 				)
 			)
 			(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x07_P2.54mm_Vertical"
-				(at 0 0 0)
+				(at 0 6.096 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -6238,7 +6238,7 @@
 						(type background)
 					)
 				)
-				(pin bidirectional line
+				(pin power_in line
 					(at -7.62 -2.54 0)
 					(length 5.08)
 					(name ""
@@ -6256,7 +6256,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin power_in line
 					(at -7.62 -5.08 0)
 					(length 5.08)
 					(name ""
@@ -6274,7 +6274,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin power_in line
 					(at -7.62 -7.62 0)
 					(length 5.08)
 					(name ""
@@ -6292,7 +6292,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin power_in line
 					(at -7.62 -10.16 0)
 					(length 5.08)
 					(name ""
@@ -6310,7 +6310,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin power_in line
 					(at -7.62 -12.7 0)
 					(length 5.08)
 					(name ""
@@ -6328,7 +6328,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin power_in line
 					(at -7.62 -15.24 0)
 					(length 5.08)
 					(name ""
@@ -6346,7 +6346,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin power_in line
 					(at -7.62 -17.78 0)
 					(length 5.08)
 					(name ""
@@ -6364,7 +6364,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin power_in line
 					(at 5.08 -2.54 180)
 					(length 5.08)
 					(name ""
@@ -6454,7 +6454,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin no_connect line
 					(at 5.08 -15.24 180)
 					(length 5.08)
 					(name ""
@@ -6472,7 +6472,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin no_connect line
 					(at 5.08 -17.78 180)
 					(length 5.08)
 					(name ""
