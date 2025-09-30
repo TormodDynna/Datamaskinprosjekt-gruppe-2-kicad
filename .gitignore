@@ -10,3 +10,8 @@ _autosave*
 
 # Ignore backup files
 *.bak
+
+# Ignore .kicad_prl
+# This is only user-specific configuration for the project
+# Things like *whether PCB layer view should be blurred*, etc.
+*.kicad_prl
