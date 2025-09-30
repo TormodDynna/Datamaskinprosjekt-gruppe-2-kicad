@@ -7467,16 +7467,6 @@
 		)
 		(uuid "fc6f9697-9ae7-4b1a-bd58-6f4325c7da73")
 	)
-	(label "GNDOUT"
-		(at 229.87 121.92 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "7fca91e2-ad91-4c73-8cef-e0cf1f15e646")
-	)
 	(symbol
 		(lib_id "power:GND")
 		(at 26.67 39.37 0)
