@@ -8637,6 +8637,12 @@
 		(uuid "d934e169-c240-4ae4-ae04-40a8b0e68f54")
 	)
 	(junction
+		(at 39.37 142.24)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e3b9d1b8-7094-42d5-80b5-dd366270cb6c")
+	)
+	(junction
 		(at 48.26 38.1)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9376,7 +9382,7 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 142.24) (xy 40.64 142.24)
+			(xy 36.83 142.24) (xy 39.37 142.24)
 		)
 		(stroke
 			(width 0)
@@ -9416,7 +9422,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 142.24) (xy 50.8 142.24)
+			(xy 48.26 142.24) (xy 53.34 142.24)
 		)
 		(stroke
 			(width 0)
@@ -9473,6 +9479,16 @@
 			(type default)
 		)
 		(uuid "ba57478e-187d-4dc5-97fc-e26ac583c44d")
+	)
+	(wire
+		(pts
+			(xy 39.37 142.24) (xy 40.64 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ba9e591d-f60d-4ac7-aedf-cac615cbabdd")
 	)
 	(wire
 		(pts
@@ -11376,7 +11392,7 @@
 	)
 	(global_label "POWER_IN"
 		(shape input)
-		(at 50.8 142.24 0)
+		(at 53.34 142.24 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11384,9 +11400,9 @@
 			)
 			(justify left)
 		)
-		(uuid "1d795346-29c4-467c-87c4-0959ce613494")
+		(uuid "a6b04a3f-3e9e-4115-b250-5ca0a37e21b3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 63.159 142.24 0)
+			(at 65.699 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11458,6 +11474,71 @@
 			(project "getting-started"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62"
 					(reference "#PWR04")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 39.37 142.24 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "04d8c155-17a7-433e-abfa-96ff29b858c6")
+		(property "Reference" "#FLG09"
+			(at 39.37 144.145 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 39.37 145.796 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 39.37 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 39.37 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 39.37 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "821f296a-ef92-4477-b3d3-3ef9a89b9b13")
+		)
+		(instances
+			(project ""
+				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62"
+					(reference "#FLG09")
 					(unit 1)
 				)
 			)
@@ -14833,7 +14914,7 @@
 		(dnp no)
 		(uuid "b7b3197f-5e11-4336-add5-a3815aa1b305")
 		(property "Reference" "R79"
-			(at 44.45 144.526 90)
+			(at 44.45 139.954 90)
 			(effects
 				(font
 					(size 1.27 1.27)
