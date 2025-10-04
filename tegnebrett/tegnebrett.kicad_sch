@@ -9376,6 +9376,16 @@
 	)
 	(wire
 		(pts
+			(xy 36.83 142.24) (xy 40.64 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ae61f722-d128-412d-9608-bf63c073dc3e")
+	)
+	(wire
+		(pts
 			(xy 46.99 88.9) (xy 53.34 88.9)
 		)
 		(stroke
@@ -9403,6 +9413,16 @@
 			(type default)
 		)
 		(uuid "b27f8861-8b5d-4888-9d7f-4fb1801f70ac")
+	)
+	(wire
+		(pts
+			(xy 48.26 142.24) (xy 50.8 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b5ad145d-25b6-47d2-a2f8-404a28e3d2e6")
 	)
 	(wire
 		(pts
@@ -11356,7 +11376,7 @@
 	)
 	(global_label "POWER_IN"
 		(shape input)
-		(at 36.83 142.24 0)
+		(at 50.8 142.24 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11366,7 +11386,7 @@
 		)
 		(uuid "1d795346-29c4-467c-87c4-0959ce613494")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 49.189 142.24 0)
+			(at 63.159 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14798,6 +14818,73 @@
 			(project "getting-started"
 				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62"
 					(reference "R12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 44.45 142.24 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b7b3197f-5e11-4336-add5-a3815aa1b305")
+		(property "Reference" "R79"
+			(at 44.45 144.526 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "12"
+			(at 44.45 142.24 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 44.45 144.018 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 44.45 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 44.45 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "6bbf9fbf-abea-452b-993e-7ac809a5d2bf")
+		)
+		(pin "1"
+			(uuid "9d808839-cb2a-4714-be5e-06fdaf567082")
+		)
+		(instances
+			(project ""
+				(path "/d9a31669-c5f1-42a7-9461-3df04b9a4e62"
+					(reference "R79")
 					(unit 1)
 				)
 			)
