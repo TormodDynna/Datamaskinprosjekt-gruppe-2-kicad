@@ -1,1 +1,1 @@
-![Skidaddle Skidoodle](skidaddle-skidoodle.jpg)
+![Skidaddle Skidoodle](pictures/skidaddle-skidoodle.jpg)
